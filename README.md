@@ -12,7 +12,7 @@ The goal of the plan is to improve and to learn more Python related to these spe
 
 Some applications that come to mind are:
 - Object Detection with Raspberry Pi
-- Requisite App (To be defined)
+- Requisite WebApp (To be defined)
 - Time Tracker
 - Time Management Tool
 - Task Management
