@@ -2,7 +2,7 @@
 This program will help me focus on exploring more of my recent passion for code. The daily session will be 1h long and will most likely be in the evening/morning. I will split the sessions between learning and applying to real projects. Primary focus is to become confortable in Python so that I can challenge myself to almost anything.
 
 ## Python Class
-Here are some skills and topics that I'll try to master in durint the 100 Day Program:
+Here are some skills and topics that I'll try to master after the #100DaysOfCode challenge:
 
 **1. Basics and Fundamentals in Python**
 - Variables
