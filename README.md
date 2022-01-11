@@ -1,5 +1,5 @@
 # 100DaysOfCode
-This program will help me focus on exploring more of my recent passion for code. I will have split the daily session between learning and applied code on some of my projects. The main focus is to become a Python expert
+This program will help me focus on exploring more of my recent passion for code. The daily session will be 1h long and will most likely be in the evening/morning. I will split the sessions between learning and applying to real projects. Primary focus is to become confortable in Python so that I can challenge myself to almost anything.
 
 ## Python Class
 Here are some skills and topics that I'll try to master in durint the 100 Day Program:
@@ -45,7 +45,7 @@ Here are some skills and topics that I'll try to master in durint the 100 Day Pr
 
 *The above list is based on a youtube video: https://www.youtube.com/watch?v=p15xzjzR9j0&t=619*
 
-## Frameworks and Areas
+## Frameworks and Topics
 
 1. Data Science
 - Pandas
