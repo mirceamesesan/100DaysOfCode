@@ -16,7 +16,7 @@ Here are some skills and topics that I'll try to master after the #100DaysOfCode
 - Mutable vs Immutable Data Types
 - Common Methods
 - IO Operations
-- Pythonic (https://www.youtube.com/watch?v=x3v9zMX1s4s)
+- Pythonic Coding (https://www.youtube.com/watch?v=x3v9zMX1s4s)
 
 **2. Intermediate Skills**
 - Object Oriented Programming
