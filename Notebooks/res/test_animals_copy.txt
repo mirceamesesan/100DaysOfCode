@@ -1,0 +1,8 @@
+dog
+cat
+tigre
+lion
+crocodile
+zebra
+elephant
+frog
