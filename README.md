@@ -20,7 +20,6 @@ Here are some skills and topics that I'll try to master after the #100DaysOfCode
 
 **2. Intermediate Skills**
 - Object Oriented Programming
-- Data Structures
 - Comprehensions
 - Lambda Functions
 - Map, Filter
@@ -37,12 +36,16 @@ Here are some skills and topics that I'll try to master after the #100DaysOfCode
 - Decorators
 - Generators
 - Context Managers (with open...)
-- Metaclases
+- Metaclasses
 - Concurrency
 - Parallelism
 - Testing
 - Packages
 - Cython
+
+**4. Expert**
+- Start using Python in digital projects
+- Use the below list of topics and frameworks
 
 *The above list is based on a youtube video: https://www.youtube.com/watch?v=p15xzjzR9j0&t=619*
 
