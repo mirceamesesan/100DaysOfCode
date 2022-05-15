@@ -25,10 +25,6 @@ Here are some skills and topics that I'll try to master after the #100DaysOfCode
 - Map, Filter
 - Collections
 - *args & **kwargs
-- Inheritance
-- Dunder Methods
-- PIP
-- Environments
 - Modules
 - Async IO
 
